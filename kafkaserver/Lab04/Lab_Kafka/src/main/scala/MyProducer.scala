@@ -1,0 +1,3 @@
+object MyProducer extends App {
+  ???
+}

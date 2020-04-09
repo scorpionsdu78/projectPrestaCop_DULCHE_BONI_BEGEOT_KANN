@@ -1,0 +1,3 @@
+object MyConsumer extends App {
+  ???
+}
